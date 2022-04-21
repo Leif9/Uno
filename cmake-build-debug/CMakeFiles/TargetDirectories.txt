@@ -1,0 +1,3 @@
+C:/Users/leifn/GitHub/cmake-build-debug/CMakeFiles/Uno.dir
+C:/Users/leifn/GitHub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leifn/GitHub/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("Test");
+    printf("Test"); // this is a comment
     return 0;
 }
